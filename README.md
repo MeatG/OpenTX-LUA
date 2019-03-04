@@ -9,6 +9,7 @@ ThrAudio.lua
 	-Create a Special Function to play a script, select ThrAudio and set your arming switch to activate it
   
 Wiper.lua
+
 	-Script for FPV camera lens servo wiper.
 	-On Taranis, go to Custom Scripts and add this LUA. Set duration and delay.
 	-If you want different settings e.g. on a switch, assign this lua as many times as needed. 
